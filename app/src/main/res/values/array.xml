@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="SideMenu_English">
+        <item>Home</item>
+        <item>About MoEFCC</item>
+        <item>Latest Updates</item>
+        <item>Infocus</item>
+        <item>Spotlight</item>
+        <item>Divisions</item>
+        <item>Fellowships and Awards</item>
+        <item>Publications</item>
+        <item>Reports</item>
+        <item>FAQs</item>
+        <item>Settings</item>
+        <item>Blog</item>
+        <item>Feedback</item>
+    </string-array>
+    <string-array name="SideMenu_Hindi">
+        <item>मुख पृष्ठ</item>
+        <item>मंत्रालय के बारे में</item>
+        <item>ताज़ा अपडेट</item>
+        <item>अद्यतन</item>
+        <item>अनवरत</item>
+        <item>प्रभाग</item>
+        <item>फेलोशिप एवं पुरस्कार</item>
+        <item>प्रकाशन</item>
+        <item>रिपोर्ट</item>
+        <item>सामान्य प्रश्न</item>
+        <item>सेटिंग</item>
+        <item>‎ब्लॉग</item>
+        <item>प्रतिक्रिया</item>
+    </string-array>
+</resources>
